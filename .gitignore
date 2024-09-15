@@ -1,0 +1,6 @@
+__pycache__/
+venv/
+sqlite.db
+.env
+# logfile.log
+# firebase.json

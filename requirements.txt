@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+aiosqlite
+pyjwt
+bcrypt
+python-multipart
+python-dotenv
+# gunicorn
+# firebase-admin
+# slowapi
+# aiogram==3.10.0
+# jinja2
+# markdown
